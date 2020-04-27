@@ -150,6 +150,5 @@ class _CalculateState extends State<Calculate> with SingleTickerProviderStateMix
 }
 
 
-// Calculate Your Age using this Calci
 // Teekam Singh
 // Hello world
