@@ -113,7 +113,7 @@ class _CalculateState extends State<Calculate> with SingleTickerProviderStateMix
             ),
 
             new Text("Your age is:",
-              style:new TextStyle(fontSize: 30.0,
+              style:new TextStyle(fontSize: 29.0,
               fontWeight: FontWeight.bold,
               fontStyle: FontStyle.italic
               ),),
@@ -123,7 +123,7 @@ class _CalculateState extends State<Calculate> with SingleTickerProviderStateMix
             ),
 
             new Text("$age",
-            style:new TextStyle(fontSize: 20.0,
+            style:new TextStyle(fontSize: 21.0,
             fontWeight: FontWeight.bold,
             fontStyle: FontStyle.italic
             ),),
@@ -149,5 +149,5 @@ class _CalculateState extends State<Calculate> with SingleTickerProviderStateMix
   }
 }
 
-// Hello
-// Teekam
+
+// Calculate Your Age using this Calci
